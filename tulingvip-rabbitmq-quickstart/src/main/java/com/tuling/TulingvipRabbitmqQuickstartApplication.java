@@ -8,7 +8,6 @@ public class TulingvipRabbitmqQuickstartApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TulingvipRabbitmqQuickstartApplication.class, args);
-
 	}
 
 }
