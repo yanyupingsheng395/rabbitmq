@@ -3,10 +3,6 @@ package com.tuling.entity;
 import java.io.Serializable;
 import java.util.Date;
 
-
-/**
- * Created by smlz on 2019/10/9.
- */
 public class Order implements Serializable{
 
 
