@@ -9,5 +9,4 @@ public class TulingvipRabbitmqSpringwithrabbitmqApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TulingvipRabbitmqSpringwithrabbitmqApplication.class, args);
 	}
-
 }
