@@ -11,5 +11,4 @@ public class TulingReliabledeliveryDeleyCheckCallBackApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TulingReliabledeliveryDeleyCheckCallBackApplication.class, args);
 	}
-
 }
