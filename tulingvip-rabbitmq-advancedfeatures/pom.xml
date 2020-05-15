@@ -11,6 +11,7 @@
 	<artifactId>tulingvip-rabbitmq-advancedfeatures</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tulingvip-rabbitmq-advancedfeatures</name>
+
 	<description>rabbitmq高级特性</description>
 
 	<properties>
