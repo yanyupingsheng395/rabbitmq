@@ -12,6 +12,7 @@
 	<artifactId>mq-reliabledelivery-dtt-order</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>mq-reliabledelivery-dtt-order</name>
+
 	<description>消息可靠性投递基于定时任务解决方案(消息生产端)</description>
 
 	<properties>
