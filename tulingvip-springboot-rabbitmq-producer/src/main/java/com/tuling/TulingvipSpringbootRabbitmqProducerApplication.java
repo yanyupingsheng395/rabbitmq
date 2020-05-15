@@ -13,5 +13,4 @@ public class TulingvipSpringbootRabbitmqProducerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TulingvipSpringbootRabbitmqProducerApplication.class, args);
 	}
-
 }
