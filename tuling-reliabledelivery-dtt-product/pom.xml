@@ -12,6 +12,7 @@
 	<artifactId>tuling-reliabledelivery-dtt-product</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tuling-reliabledelivery-dtt-product</name>
+
 	<description>库存服务</description>
 
 	<properties>
