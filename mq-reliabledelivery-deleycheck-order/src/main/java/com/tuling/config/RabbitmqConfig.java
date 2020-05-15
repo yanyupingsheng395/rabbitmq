@@ -49,6 +49,7 @@ public class RabbitmqConfig {
 
     /**
      * 声明一个延时交换机
+     *
      * @return
      */
     @Bean
