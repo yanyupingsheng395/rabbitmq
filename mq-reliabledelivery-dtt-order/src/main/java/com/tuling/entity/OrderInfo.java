@@ -8,26 +8,23 @@ import lombok.ToString;
 import java.util.Date;
 
 /**
-* @vlog: 高于生活，源于生活
 * @desc: 类的描述:订单实体
-* @author: smlz
-* @createDate: 2019/10/11 15:01
 * @version: 1.0
 */
 @ToString
 @Getter
 @Setter
 public class OrderInfo {
-
+    //订单ID
     private long orderNo;
-
+    //创建时间
     private Date createTime;
-
+    //更新时间
     private Date updateTime;
-
+    //购买者名字
     private String userName;
-
+    //金额
     private double money;
-
+    //商品ID
     private Integer productNo;
 }

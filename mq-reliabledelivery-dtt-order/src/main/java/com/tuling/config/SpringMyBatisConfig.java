@@ -16,10 +16,7 @@ import javax.sql.DataSource;
 import java.sql.SQLException;
 
 /**
-* @vlog: 高于生活，源于生活
 * @desc: 类的描述:spring整合mybaits
-* @author: smlz
-* @createDate: 2019/10/11 15:57
 * @version: 1.0
 */
 @Slf4j

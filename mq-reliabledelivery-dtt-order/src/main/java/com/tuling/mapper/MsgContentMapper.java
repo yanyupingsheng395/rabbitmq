@@ -6,10 +6,7 @@ import org.apache.ibatis.annotations.Param;
 import java.util.List;
 
 /**
-* @vlog: 高于生活，源于生活
 * @desc: 类的描述:消息内容mapper
-* @author: smlz
-* @createDate: 2019/10/11 16:14
 * @version: 1.0
 */
 public interface MsgContentMapper {

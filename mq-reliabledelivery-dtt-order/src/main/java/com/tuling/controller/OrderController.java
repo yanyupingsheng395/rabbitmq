@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Date;
 
 /**
- * Created by smlz on 2019/10/11.
+ * 购买商品，然后发送消息。扣减库存
  */
 @RestController
 public class OrderController {
@@ -28,7 +28,6 @@ public class OrderController {
         orderInfo.setUserName("smlz");
         orderInfo.setMoney(10000);
         orderInfo.setProductNo(1);
-
         orderInfoService.saveOrderInfoWithMessage(orderInfo);
         return "ok";
     }
