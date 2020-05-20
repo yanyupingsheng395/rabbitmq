@@ -10,6 +10,7 @@ import java.util.Date;
 /**
 * @desc: 类的描述:订单实体
 * @version: 1.0
+ *
 */
 @ToString
 @Getter

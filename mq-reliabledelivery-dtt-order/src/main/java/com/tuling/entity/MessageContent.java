@@ -7,6 +7,7 @@ import java.util.Date;
 /**
 * @desc: 类的描述:消息日志表
 * @version: 1.0
+ *
 */
 @Data
 public class MessageContent {

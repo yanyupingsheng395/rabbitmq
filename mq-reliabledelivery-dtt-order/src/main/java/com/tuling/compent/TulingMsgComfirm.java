@@ -16,6 +16,7 @@ import java.util.Date;
 /**
 * @desc: 类的描述:消息确认组件，判断消息是否已经发送成功。对应图中的（Y：消息可达）
 * @version: 1.0
+ *
 */
 @Component
 @Slf4j

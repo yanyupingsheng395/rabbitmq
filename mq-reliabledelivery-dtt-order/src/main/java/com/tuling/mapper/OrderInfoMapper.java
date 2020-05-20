@@ -5,6 +5,7 @@ import com.tuling.entity.OrderInfo;
 /**
 * @desc: 类的描述:订单信息mapper
 * @version: 1.0
+ *
 */
 public interface OrderInfoMapper {
 

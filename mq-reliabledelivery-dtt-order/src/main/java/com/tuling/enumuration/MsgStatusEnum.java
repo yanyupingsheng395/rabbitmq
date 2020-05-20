@@ -5,6 +5,7 @@ import lombok.Getter;
 /**
 * @desc: 类的描述:消息状态枚举
 * @version: 1.0
+ *
 */
 @Getter
 public enum MsgStatusEnum {

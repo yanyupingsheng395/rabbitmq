@@ -13,6 +13,7 @@ import org.springframework.stereotype.Component;
 
 /**
 * @desc: 类的描述:消息发送组件
+ *
 */
 @Component
 @Slf4j

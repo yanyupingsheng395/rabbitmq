@@ -18,6 +18,7 @@ import java.sql.SQLException;
 /**
 * @desc: 类的描述:spring整合mybaits
 * @version: 1.0
+ *
 */
 @Slf4j
 @Configuration

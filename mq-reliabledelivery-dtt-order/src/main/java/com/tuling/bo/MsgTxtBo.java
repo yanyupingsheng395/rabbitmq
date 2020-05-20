@@ -7,6 +7,7 @@ import java.io.Serializable;
 /**
 * @desc: 类的描述:消息文本对象
 * @version: 1.0
+ *
 */
 @Data
 public class MsgTxtBo implements Serializable {

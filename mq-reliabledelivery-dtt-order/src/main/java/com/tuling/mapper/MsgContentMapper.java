@@ -8,6 +8,7 @@ import java.util.List;
 /**
 * @desc: 类的描述:消息内容mapper
 * @version: 1.0
+ *
 */
 public interface MsgContentMapper {
 

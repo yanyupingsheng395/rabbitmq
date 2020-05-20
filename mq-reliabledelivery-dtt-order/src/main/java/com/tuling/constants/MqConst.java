@@ -3,6 +3,7 @@ package com.tuling.constants;
 /**
 * @desc: 类的描述:
 * @version: 1.0
+ *
 */
 public class MqConst {
 
